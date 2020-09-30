@@ -1,2 +1,2 @@
-# gitHub-curs
+# gitHub-course
 osama elzero 
